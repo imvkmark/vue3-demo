@@ -1,7 +1,7 @@
 <template>
-    <img alt="Vue logo" src="https://wulicode.com/assets/images/logo.png" style="width: 48px;"/>
+    <img alt="Vue logo" src="https://file.wulicode.com/static/images/logo.png" style="width: 48px;" />
     <div>
-        <router-view/>
+        <router-view />
     </div>
 </template>
 <script setup lang="ts">
